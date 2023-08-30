@@ -1,6 +1,6 @@
 ## For zsh
 ```
-git clone --recursive https://github.com/andresgongora/synth-shell.git](https://github.com/ohmyzsh/ohmyzsh)https://github.com/ohmyzsh/ohmyzsh
+sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 ```
 
 ## For powerlevel10k
