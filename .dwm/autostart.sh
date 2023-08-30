@@ -1,3 +1,4 @@
-feh --bg-fill $HOME/.wall/*.png,*.jpg &
+$HOME/.dwm/feh.sh &
+discord &
 slstatus &
 xcompmgr &
