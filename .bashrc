@@ -115,3 +115,4 @@ fi
 
 alias poweroff='sudo systemctl poweroff'
 alias reboot='sudo systemctl reboot'
+alias cat='batcat'
