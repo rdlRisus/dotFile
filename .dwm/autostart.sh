@@ -4,4 +4,5 @@ feh --randomize --bg-fill .wall/* &
 #flatpak run com.discordapp.Discord &
 # lxsession &
 slstatus &
-xcompmgr &
+flameshot &
+picom &
