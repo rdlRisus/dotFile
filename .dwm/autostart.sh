@@ -2,7 +2,7 @@
 $HOME/.dwm/dbus.sh &
 feh --randomize --bg-fill .wall/* &
 #flatpak run com.discordapp.Discord &
-xfce-polkit &
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &
 slstatus &
 flameshot &
 picom &
