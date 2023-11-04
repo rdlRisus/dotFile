@@ -2,7 +2,7 @@
 $HOME/.dwm/dbus.sh &
 feh --randomize --bg-fill .wall/* &
 #flatpak run com.discordapp.Discord &
-# lxsession &
+xfce-polkit &
 slstatus &
 flameshot &
 picom &
